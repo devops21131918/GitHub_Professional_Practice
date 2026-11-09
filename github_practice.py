@@ -32,5 +32,3 @@ average_marks = sum(students.values()) / len(students)
 
 print("-" * 35)
 print(f"Class Average: {average_marks:.2f}")
-
-print ("Thank you for using the Student Performance Analyzer!")
